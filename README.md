@@ -8,7 +8,7 @@ Python Programming
 
 ## Projects
 1. BMI Calculator ✅
-2. Random Password Generator (Coming Soon)
+2. Random Password Generator ✅
 3. Weather App (Coming Soon)
 
 ## Technologies Used
